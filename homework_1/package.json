@@ -1,0 +1,18 @@
+{
+  "name": "aleksandr-19991",
+  "version": "3.10.8",
+  "description": "\"\"\u001b[Dnpm init = two day\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "D:/Aleksandr.Eremencko_Aleksandr-19991/homework_1/"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "I am",
+  "license": "ISC"
+}
